@@ -1,0 +1,31 @@
+2 - O que é Docker?
+
+Resposta: Docker é basicamente uma tecnologia de containarização, sendo capaz de emular sua aplicação sem ter a necessidade de
+configurar uma máquina completa, pois ele conversa diretamente com o kernel da sua máquina,utilizando melhor a infraestrutura.
+
+
+3 - O que é Kubernetes?
+
+Resposta: Kubernetes seria a automiatização das operações dos containers linux, eliminando a maior parte dos processos manuais para
+implantar e escalar os aplicativos em containers
+
+
+4- Defina o conceiro de PaaS, SaaS e IaaS;
+
+Resposta:
+
+Sistemas de computação em nuvem
+
+SaaS - Softwares as a Service, não precisa fazer a instação de um serviço(aplicação), pois
+resolve os problemas das empresas para não se preocuparem mais com a infraestrutura e backups
+para utiilizar um determinado serviço. Tudo é fornecido de forma online
+
+IaaS - infraestrutura como um serviço, você possui basicamente todo serviço de infraestruturana nuvem, configuração de máquina,
+esquema de virtualização, servidor de arquivos, memória, armazenamento, processamento, um serviço de "dataCenter" em nuvem
+
+PaaS - Plataform as a serviço - elas não cuidam da aplicação e do bando de dados( informação), sendo responsável pelo
+gerenciamento de infraestrutura, de desempenho "físico do computador", de queda de máquinas, segurança e etc.
+
+Outro tipo de serviço em nuvem que está crescendo bastante é o de MLaaS, Machine Learning as a Service, o qual fornece
+serviço de aprendizagem de máquina como um serviço, ou seja, não preciso "cuidar" da aplicação de machine Learning
+a própria plataforma fornece, Exemplo: IBM, com o IBM Cloud
