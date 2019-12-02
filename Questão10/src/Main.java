@@ -1,3 +1,7 @@
+/*
+ *  Download do arquivo JAR  da lib Gson em: < https://jar-download.com/artifacts/com.google.code.gson/gson/2.8.2/source-code >, após o download fazer configuração na IDE
+ */
+
 import com.google.gson.Gson;
 
 import java.io.FileWriter;
